@@ -8,6 +8,8 @@ tags:
  - "题解"
  - "图论"
  - "数数"
+image: "https://cdn.luogu.com.cn/upload/image_hosting/8cuw5r1m.png"
+categories: zuti
 ---
 
 （彩蛋：大样例是从数据里扒的，且没有绑点）。

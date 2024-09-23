@@ -56,7 +56,7 @@ params:
     favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2024
         customText:
 
     # 日期格式
@@ -85,7 +85,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: cusdis
 
         disqusjs:
             shortname:
@@ -158,8 +158,8 @@ params:
             clientSecret:
 
         cusdis:
-            host:
-            id:
+            host: "https://cusdis.com"
+            id: "8dc26e18-48f3-4405-9433-ffc0f9dc736a"
     widgets:
         homepage:
             - type: search
